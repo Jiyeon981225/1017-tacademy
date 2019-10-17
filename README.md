@@ -1,2 +1,2 @@
 - [나의 시각화 프로젝트](https://jiyeon981225.github.io/1017-tacademy/)
-- [걍 자바 파일](C:\Users\USER\Desktop\d3js\projectfolder\chapter5.html)
+- [걍 자바 파일](file:///C:/Users/USER/Desktop/d3js/projectfolder/chapter5.html)
